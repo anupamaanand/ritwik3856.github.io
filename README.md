@@ -1,5 +1,6 @@
-# WT_Project_Group_2
-College Web Technology Project of Group-2
+# Web Technology (Sem 4) Group Project
+
+
 
 Submitted by
 Ritwik Rudra (2005257) 
